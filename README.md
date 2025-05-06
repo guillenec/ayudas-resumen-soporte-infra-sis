@@ -18,7 +18,9 @@ Este repositorio contiene los resúmenes, actividades y ejemplos desarrollados p
 
 ## 🧮 Matemática
 
-> 🔜 Próximamente: Unidades temáticas en desarrollo
+### Unidad 2: Racionales
+
+- [Propiedades mas utiles](./matematica/propiedases.md)
 
 ---
 

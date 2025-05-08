@@ -31,8 +31,17 @@ Este repositorio contiene los resúmenes, actividades y ejemplos desarrollados p
 - [Ejemplo aplicado – Caso ESRN6](./sistemas_y_Organizaciones/unidad1/ejemplo-aplicado-tema1.md)
 - [TP práctico – Análisis comparativo aplicado](./sistemas_y_Organizaciones/unidad1/pesumen_practico_de_presentacion-unit1.md)
 - [Resumen teórico de la unidad](./sistemas_y_Organizaciones/unidad1/resumen-unit1-sistemas_y_organizaciones.md)
+- [Resumen explicativo - unidad1_sistemasyorganizaciones.pdf](./sistemas_y_Organizaciones/unidad1/unidad1_sistemasyorganizaciones.md)
 
-> 🔜 Unidad 2 en construcción
+>
+### Unidad 2: Organizaciones
+
+- [Resumen - unidad2 - organizaciones](./sistemas_y_Organizaciones/unidad2/unidad2_organizaciones.md)
+
+>
+### Unidad 3: Sistemas
+
+- [Resumen - unidad3 - Sistemas](./sistemas_y_Organizaciones/unidad3/unidad3-sistemas.md)
 
 ---
 

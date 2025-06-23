@@ -45,4 +45,6 @@ Este repositorio contiene los resúmenes, actividades y ejemplos desarrollados p
 
 ---
 
-## 💻
+## 💻 arquitectura y seguridad Web
+
+- [Resumen - unidad3 - Redes y internet](./arquitectura-seguridad-web/osi.md)
